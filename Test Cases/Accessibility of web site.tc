@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing accessibility of the website.</description>
+   <name>Accessibility of web site</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80206d61-2792-4170-83e1-fa8367744ef2</testCaseGuid>
+</TestCaseEntity>
